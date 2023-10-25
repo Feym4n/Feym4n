@@ -2,5 +2,5 @@
 - 🔭 I’m currently working on something cool  
 - 🌱 I’m currently learning Go, С++, Phython
 - 💬 Ask me about anything Net-Working
-- 👨‍💻 Read more about my project at https://feym4n.github.io/Vlad/index#
+- 👨‍💻 Read more about my project at https://feym4n.github.io/Vlad
 - ⚡ Fun fact: I❤️🐶s
