@@ -1,5 +1,4 @@
 - 🔭 I’m currently working on something cool  
-- 🌱 I’m currently learning С++ & Phython
+- 🌱 I’m currently learning Java & Phython
 - 💬 Ask me about anything in Net-Working
 - 👨‍💻 Read more about my projects at https://feym4n.github.io/Vlad
-- ⚡ Fun fact: I❤️🐶s
